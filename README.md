@@ -1,12 +1,16 @@
 Library Management System (Project Created using vite tool)
 
-Create Project 
+Create Vite React Project 
 ---------------------------
 npm create vite@latest library-management
 
+Start project 
+---------------------------
+npm run dev
+
 
 Functionality 
--------------------------
+---------------------------
 - Nested Routing
 - Private Route & Public Route (Authantication)
 - Redux Toolkit for global state management
@@ -14,7 +18,7 @@ Functionality
 
 
 Component Used
------------------------
+---------------------------
 - Reusable Table
 - Sidebar
 - Dialogue (Confirmation prompt)
